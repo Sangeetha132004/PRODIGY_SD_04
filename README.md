@@ -2,7 +2,7 @@
 
 SODUKU SOLVER
 
-    This python script implements a sudoku sover using backtracking algorithm. 
+    This python script implements a sudoku solver using backtracking algorithm. 
     
     The solver reads an input representing an unsolved Sudoku puzzle and fills in the missing numbers, adhering to Sudoku rules. 
     
